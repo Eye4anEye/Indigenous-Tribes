@@ -762,13 +762,13 @@
                 "name": "The Cherokee",
 		"leaderName": "Degataga",
 		"adjective": ["Cherokee"],
-		"startBias": ["Plains"],
+		"startBias": ["Hills"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Ulihelisdi Welcome",
-		"startIntroPart2": "The Cherokee Nation welcomes you",
+		"startIntroPart1": "I, Degataga, shall take back what was stolen and lead my people u-de-li-go-hi!",
+		"startIntroPart2": "The Cherokee Nation stands at your side, Lead them to Victory!",
 		
-		"declaringWar": "Then we will go to war!.",
+		"declaringWar": "You will not survive our ga-tli-da!.",
 		"attacked": "I will never surrender!",
 		"defeated": "You cannot defeat my Spirit.",
 		"introduction": "Let us speak awhile.",
