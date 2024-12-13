@@ -529,12 +529,12 @@
 	},
 	{
 		"name": "The Blackfoot",
-		"leaderName": "Chief Sik",
+		"leaderName": "Aatsista-Mahkan",
 		"adjective": ["Blackfoot"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Welcome",
+		"startIntroPart1": ""
 		"startIntroPart2": "",
 		
 		"declaringWar": "Then we will go to war!.",
