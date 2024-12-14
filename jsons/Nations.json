@@ -3625,7 +3625,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [199.200.202],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -3724,7 +3724,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [226.195.173],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
