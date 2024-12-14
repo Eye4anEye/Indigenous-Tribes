@@ -4484,7 +4484,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4517,7 +4517,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4550,7 +4550,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4583,143 +4583,11 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Raritan",
-		"leaderName": "",
-		"adjective": ["Raritan"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Rechgawank",
-		"leaderName": "",
-		"adjective": ["Rechgawank"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Ree",
-		"leaderName": "",
-		"adjective": ["Ree"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Rockaway",
-		"leaderName": "",
-		"adjective": ["Rockaway"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
+        },
 	{
 		"name": "The Sauk",
 		"leaderName": "Black Hawk",
@@ -4748,7 +4616,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4781,7 +4649,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4814,7 +4682,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4847,7 +4715,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4880,7 +4748,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4913,7 +4781,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4946,7 +4814,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -4979,7 +4847,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5012,7 +4880,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [183,212,158],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5045,7 +4913,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5078,7 +4946,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5111,7 +4979,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5144,7 +5012,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5177,7 +5045,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5210,7 +5078,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5243,7 +5111,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5276,7 +5144,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5309,7 +5177,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5342,7 +5210,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5375,7 +5243,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5408,7 +5276,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5417,7 +5285,7 @@
 		"name": "The Tlingit",
 		"leaderName": "",
 		"adjective": ["Tlingit"],
-		"startBias": ["Plains"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Welcome",
@@ -5441,7 +5309,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5474,7 +5342,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5507,7 +5375,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5540,7 +5408,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [217,225,210],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5573,7 +5441,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5606,7 +5474,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5639,7 +5507,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""], 
@@ -5672,7 +5540,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5705,7 +5573,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5738,7 +5606,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5771,7 +5639,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -5804,142 +5672,10 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [183,212,158],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Waco",
-		"leaderName": "",
-		"adjective": ["Waco"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Wailaki",
-		"leaderName": "",
-		"adjective": ["Wailaki"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Wahkiakum",
-		"leaderName": "",
-		"adjective": ["Wahkiakum"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Wakashan",
-		"leaderName": "",
-		"adjective": ["Wakashan"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
+		"cities": ["","","","","","","","","","","","","","",""], 
 	},
 	{
 		"name": "The Walla Walla",
@@ -5969,7 +5705,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6002,7 +5738,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6035,7 +5771,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6068,40 +5804,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Washoe",
-		"leaderName": "",
-		"adjective": ["Washoe"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6134,7 +5837,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6167,40 +5870,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Wintun",
-		"leaderName": "",
-		"adjective": ["Wintun"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
+		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6233,7 +5903,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6266,7 +5936,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6299,7 +5969,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6332,7 +6002,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6365,7 +6035,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6398,7 +6068,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6431,7 +6101,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6464,7 +6134,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6497,7 +6167,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6530,40 +6200,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
-		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["","","","","","","","","","","","","","",""],
-	},
-	{
-		"name": "The Yuchi",
-		"leaderName": "",
-		"adjective": ["Yuchi"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "Welcome",
-		"startIntroPart2": "",
-		
-		"declaringWar": "Then we will go to war!.",
-		"attacked": "I will never surrender!",
-		"defeated": "You cannot defeat my Spirit.",
-		"introduction": "Let us speak awhile.",
-		
-		"neutralHello": "Hello.",
-		"neutralLetsHearIt": ["What?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes."],
-
-		"hateHello": "What do you want?",
-		"hateLetsHearIt": ["Speak!"],
-		"hateNo": ["That is not acceptable!"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Come let us smoke and renew our friendship.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6596,7 +6233,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6629,7 +6266,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6662,7 +6299,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
@@ -6695,7 +6332,7 @@
 		"afterPeace": "Come let us smoke and renew our friendship.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [6,57,112],
+		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["","","","","","","","","","","","","","",""],
