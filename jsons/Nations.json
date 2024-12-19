@@ -879,7 +879,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [256,165,0],
-		"innerColor": [2,2,2],
+		"innerColor": [1,1,1],
 		//"style": "",
 		"uniqueName": "MANIFEST_DESTINY",
 		"uniques": [
@@ -4691,7 +4691,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [170,189,206],
-		"innerColor": [255,255,255],
+		"innerColor": [1,1,1],
 		//"style": "",
 		"uniqueName": "MANIFEST_DESTINY",
 		"uniques": [
