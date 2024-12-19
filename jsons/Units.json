@@ -331,6 +331,21 @@
 		"attackSound": ""
 	},
 	{
+		"name": "Algonquin Balisteer",
+		"unitType": "",
+		"uniqueTo": "",
+		"replaces": "",
+		"movement": ,
+		"strength": ,
+		"rangedStrength": ,
+		"range": ,
+		"cost": ,
+		"requiredTech": "",
+		"requiredResource": "",
+		"promotions": [""],
+		"attackSound": ""
+	},
+	{
 		"name": "Musketman",
 		"unitType": "",
 		"uniqueTo": "",
