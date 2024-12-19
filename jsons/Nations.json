@@ -3841,7 +3841,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -3874,7 +3878,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -3907,7 +3915,11 @@
 
 		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -3940,7 +3952,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -3973,7 +3989,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4006,7 +4026,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{	
@@ -4039,7 +4063,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4072,7 +4100,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4105,7 +4137,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4138,7 +4174,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4171,7 +4211,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4204,7 +4248,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4237,7 +4285,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4270,7 +4322,11 @@
 
 		"outerColor": [217,225,210],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4303,7 +4359,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4336,7 +4396,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4369,7 +4433,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4402,7 +4470,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4435,7 +4507,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4468,7 +4544,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{	
@@ -4501,7 +4581,11 @@
 
 		"outerColor": [183,212,158],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4534,7 +4618,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4567,7 +4655,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4600,7 +4692,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["Turikaku","Kitkehaxpakuxtu","Tuhitspiat","Tukitskita","Tuhawukasa","Arikararikutsu","Arikarariki","Tuwarakaku","Akapaxtsawa",
 			"Tskisarikus","Tstikskaatit","Turawiu","Pahukstatu","Tskirirara","Panismaha"], 
 	},
@@ -4634,7 +4730,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4667,7 +4767,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4700,7 +4804,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4733,7 +4841,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4766,7 +4878,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4799,7 +4915,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4832,7 +4952,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""], 
 	},
 	{	
@@ -4865,7 +4989,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4898,7 +5026,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4931,7 +5063,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4964,7 +5100,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -4997,7 +5137,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
         },
 	{
@@ -5030,7 +5174,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5063,7 +5211,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5096,7 +5248,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5129,7 +5285,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{	
@@ -5162,7 +5322,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5195,7 +5359,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5228,7 +5396,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5261,7 +5433,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5294,7 +5470,11 @@
 
 		"outerColor": [183,212,158],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5327,7 +5507,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5360,7 +5544,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5393,7 +5581,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5426,7 +5618,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5459,7 +5655,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5492,7 +5692,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5525,7 +5729,11 @@
 
 		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5558,7 +5766,11 @@
 
 		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5591,7 +5803,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5624,7 +5840,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5657,7 +5877,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5690,7 +5914,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5723,7 +5951,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5756,7 +5988,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5789,7 +6025,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5822,7 +6062,11 @@
 
 		"outerColor": [217,225,210],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5855,7 +6099,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5888,7 +6136,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5921,7 +6173,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""], 
 	},
 	{
@@ -5954,7 +6210,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -5987,7 +6247,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6020,7 +6284,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6053,7 +6321,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6086,7 +6358,11 @@
 
 		"outerColor": [183,212,158],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""], 
 	},
 	{
@@ -6119,7 +6395,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6152,7 +6432,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6185,7 +6469,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6218,7 +6506,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6251,7 +6543,11 @@
 
 		"outerColor": [170,189,206],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6284,7 +6580,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6317,7 +6617,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6350,7 +6654,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6383,7 +6691,11 @@
 
 		"outerColor": [199,200,202],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6416,7 +6728,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6449,7 +6765,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6482,7 +6802,11 @@
 
 		"outerColor": [226,195,173],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6515,7 +6839,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6548,7 +6876,11 @@
 
 		"outerColor": [240,236,225],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6581,7 +6913,11 @@
 
 		"outerColor": [220,221,223],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6614,7 +6950,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6647,7 +6987,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6680,7 +7024,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6713,7 +7061,11 @@
 
 		"outerColor": [245,190,126],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
@@ -6746,7 +7098,11 @@
 
 		"outerColor": [219,181,136],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	}
 ]
