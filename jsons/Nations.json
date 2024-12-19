@@ -29,7 +29,11 @@
 
 		"outerColor": [180,188,177],
 		"innerColor": [1,1,1],
-		"unique": "MANIFEST_DESTINY",
+		//"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
