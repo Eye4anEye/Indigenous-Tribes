@@ -18,6 +18,13 @@ BuildingIcons/Holodeck
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Degataga
+  rotate: false
+  xy: 1044, 100
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
 NationIcons/The Alabama
   rotate: false
   xy: 4, 212
@@ -47,6 +54,13 @@ NationIcons/The Apache
   offset: 0, 0
   index: -1
 NationIcons/The Apalachee
+  rotate: false
+  xy: 420, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationPortraits/The Apalachee
   rotate: false
   xy: 420, 212
   size: 200, 200
