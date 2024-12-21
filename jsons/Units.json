@@ -151,6 +151,21 @@
 		"attackSound": ""
 	},
 	{
+		"name": "Hornet Bomber",
+		"unitType": "",
+		"uniqueTo": "",
+		"replaces": "",
+		"movement": ,
+		"strength": ,
+		"rangedStrength": ,
+		"range": ,
+		"cost": ,
+		"requiredTech": "",
+		"requiredResource": "",
+		"promotions": [""],
+		"attackSound": ""
+	},
+	{
 		"name": "Tlahhuitolli",
 		"unitType": "",
 		"uniqueTo": "",
