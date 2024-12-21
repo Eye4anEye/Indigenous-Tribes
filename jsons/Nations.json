@@ -2776,6 +2776,43 @@
 		"cities": ["","","","","","","","","","","","","","",""],
 	},
 	{
+		"name": "The Koitsenko",
+		"leaderName": "",
+		"adjective": ["Koitsenko"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Then we will go to war!.",
+		"attacked": "I will never surrender!",
+		"defeated": "You cannot defeat my Spirit.",
+		"introduction": "Let us speak awhile.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+
+		"hateHello": "What do you want?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not acceptable!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Come let us smoke and renew our friendship.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [199,200,202],
+		"innerColor": [1,1,1],
+	        //"style": "",
+		"uniqueName": "MANIFEST_DESTINY",
+		"uniques": [
+			""
+			]
+		"cities": ["","","","","","","","","","","","","","",""], 
+	},
+	{
 		"name": "The Kootenai",
 		"leaderName": "",
 		"adjective": ["Kootenai"],
