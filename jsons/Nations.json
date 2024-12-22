@@ -5,6 +5,7 @@
 		"adjective": ["Abenaki"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Nescambuit",
 		
 		"startIntroPart1": "Kwaï, new friend.",
 		"startIntroPart2": "Together, we shall Wlakamigenoka!",
