@@ -191,6 +191,7 @@
 		"adjective": ["Apache"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Geronimo",
 		
 		"startIntroPart1": "Welcome",
 		"startIntroPart2": "",
@@ -450,6 +451,7 @@
 		"adjective": ["Aztec"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Montezuna I",
 		
 		"startIntroPart1": "Welcome",
 		"startIntroPart2": "",
@@ -598,6 +600,7 @@
 		"adjective": ["Blackfoot"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Aatsista-Mahkan",
 		
 		"startIntroPart1": "I Cheif Aatsista-Mahkan shall lead our Niitsitupi to the Dawn Land."
 		"startIntroPart2": "",
@@ -857,6 +860,7 @@
 		"adjective": ["Cherokee"],
 		"startBias": ["Hills"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Degataga",
 		
 		"startIntroPart1": "Osiyo, nvdo aleha, I am Degataga! Brigadier General.",
 		"startIntroPart2": "The Cherokee Nation shall reclaim their u-de-li-go-hi!",
@@ -1561,6 +1565,7 @@
                 "adjective": ["Crow"],
                 "startBias": ["Plains"],
                 "preferredVictoryType":"Cultural",
+		"personality": "Plenty Coups",
   
                 "startIntroPart1": "We, the children of the Beaked One, will fulfill our bestowed destiny.",
                 "startIntroPart2": "Bilítaachiia iichiaxxó Akbaatatdía koó daasée bíilukaa.",
